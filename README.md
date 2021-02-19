@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ![KingJeremyNg's github stats](https://github-readme-stats.vercel.app/api?username=kingjeremyng&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingjeremyng&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingjeremyng&layout=compact&theme=radical&langs_count=10&exclude_repo=cps511,cps305)
 
-<!--
-[![KingJeremyNg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingjeremyng)](https://github.com/anuraghazra/github-readme-stats)
--->
+![KingJeremyNg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=underbalanced)
