@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingjeremyng&layout=compact&theme=radical&langs_count=10&exclude_repo=cps511,cps305)
 
-![KingJeremyNg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=underbalanced&theme=radical)
+![KingJeremyNg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=underbalanced&shareid=underbalanced/17140a84-5362-4d99-b637-21c38dace722&theme=radical)
